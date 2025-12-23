@@ -43,3 +43,4 @@ Xin phép và tuân thủ các quy định về sử dụng dữ liệu camera g
 Thay thế đường dẫn video bằng luồng camera thực (RTSP/IP camera).
 
 Hiệu chỉnh lại vùng làn đường và tham số hiệu chuẩn.
+
