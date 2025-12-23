@@ -44,3 +44,7 @@ Thay thế đường dẫn video bằng luồng camera thực (RTSP/IP camera).
 
 Hiệu chỉnh lại vùng làn đường và tham số hiệu chuẩn.
 
+
+
+https://github.com/user-attachments/assets/58053c98-311a-4b4d-b6eb-ffa537f8eae3
+
